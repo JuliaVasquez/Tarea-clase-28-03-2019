@@ -1,0 +1,9 @@
+C:\Users\Amilcar Henriquez\Desktop\Julia\Julia\bin\Debug\Julia.exe.config
+C:\Users\Amilcar Henriquez\Desktop\Julia\Julia\bin\Debug\Julia.exe
+C:\Users\Amilcar Henriquez\Desktop\Julia\Julia\bin\Debug\Julia.pdb
+C:\Users\Amilcar Henriquez\Desktop\Julia\Julia\obj\Debug\Julia.csprojResolveAssemblyReference.cache
+C:\Users\Amilcar Henriquez\Desktop\Julia\Julia\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Amilcar Henriquez\Desktop\Julia\Julia\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Amilcar Henriquez\Desktop\Julia\Julia\obj\Debug\Julia.csproj.GenerateResource.Cache
+C:\Users\Amilcar Henriquez\Desktop\Julia\Julia\obj\Debug\Julia.exe
+C:\Users\Amilcar Henriquez\Desktop\Julia\Julia\obj\Debug\Julia.pdb
